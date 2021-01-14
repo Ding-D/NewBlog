@@ -1,0 +1,54 @@
+.articleList-container .header {
+  text-align: center;
+}
+.articleList-container .main {
+  margin-top: 10px;
+  text-align: left;
+}
+.articleList-container .main .tooltip {
+  color: #cccccc;
+}
+.articleList-container .main #mentality,
+.articleList-container .main #technology,
+.articleList-container .main #code,
+.articleList-container .main #demonstration {
+  margin-bottom: 10px;
+}
+.articleList-container .main #mentality div,
+.articleList-container .main #technology div,
+.articleList-container .main #code div,
+.articleList-container .main #demonstration div {
+  text-indent: 28px;
+  margin-top: 5px;
+}
+.articleList-container .main #code {
+  margin-bottom: 50px;
+  background-color: #292727;
+  color: #dbd9d9;
+  border-radius: 5px;
+  box-shadow: 0 0 10px 2px;
+}
+.articleList-container .main #demonstration {
+  margin-bottom: 50px;
+}
+.articleList-container .main h1,
+.articleList-container .main h2,
+.articleList-container .main h3,
+.articleList-container .main h4,
+.articleList-container .main h5,
+.articleList-container .main h6 {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.articleList-container .main pre {
+  white-space: pre-wrap;
+}
+.articleList-container footer {
+  width: 100%;
+  text-align: center;
+}
+.articleList-container footer p {
+  margin-top: 10px;
+  color: #ccc;
+}
